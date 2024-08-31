@@ -1,3 +1,5 @@
 # Data-Science-Tutorial
-Data Analysis with numpy library. Numpy stands for Numerical Python. It is used for working with arrays. In this I mentioned Arthimatic operations, Statistic methods, and Logical operations using with Numpy
-Data Analysis with pandas library. It is used for working with dataset.
+In this Tutorial I mentioned python libraries. They are Numpy, pandas, matplotlib. 
+Numpy is used for working with arrays. 
+pandas is used for working with datasets.
+matplotlib is used for to visualize the data in the form of plots.
